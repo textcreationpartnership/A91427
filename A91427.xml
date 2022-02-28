@@ -1,0 +1,375 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An admonition to all such as shall intend hereafter to enter the state of matrimony godly and agreeably to lawes</title>
+            <title>Admonition--for the necessitie of the presente tyme tyll a furder consultation--to all suche as shall intende hereafter to enter the state of matrimonye godly and agreablye to lawes</title>
+            <author>Parker, Matthew, 1504-1575.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91427</idno>
+            <idno type="STC">Wing P448C</idno>
+            <idno type="STC">ESTC R229889</idno>
+            <idno type="EEBO-CITATION">99899382</idno>
+            <idno type="PROQUEST">99899382</idno>
+            <idno type="VID">153256</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91427)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153256)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2357:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An admonition to all such as shall intend hereafter to enter the state of matrimony godly and agreeably to lawes</title>
+                  <title>Admonition--for the necessitie of the presente tyme tyll a furder consultation--to all suche as shall intende hereafter to enter the state of matrimonye godly and agreablye to lawes</title>
+                  <author>Parker, Matthew, 1504-1575.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for W. Lee at the Turks head in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An edition of: Parker, Matthew.  An admonition--for the necessitie of the presente tyme tyll a furder consultation--to all suche as shall intende hereafter to enter the state of matrimonye godly and agreablye to lawes.</note>
+                  <note>Above imprint, at foot: "Set forth at first by the most reverend father in God, Mathew Lord Arch-bishop of Canterbury, primate of England, and Metropolitane. This is the truest impression with the picture, two other impressions have been dispersed and sold without consent of the owner of the copy".</note>
+                  <note>Title contained in engraved illustration at head.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Consanguinity --  Early works to 1800.</term>
+               <term>Marriage --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:153256:1"/>
+            <figure>
+               <p>An
+<hi>ADMONITION</hi>
+To all Such as
+Shall intend
+hereafter to
+enter the
+<hi>STATE
+of
+MATRIMONY
+GODLY</hi>
+and
+<hi>AGREEABLY</hi>
+to
+<hi>LAWES.</hi>
+               </p>
+               <p>London Printed for Will: Lee at if Turks
+head in Fleetſtreet over againſt Fetter-lane</p>
+            </figure>
+            <p>FIrſt, that they contract not with
+ſuch perſons as be hereafter expreſ<g ref="char:EOLhyphen"/>ſed,
+nor with any of like degree, againſt
+the Law of God, and the Laws of
+the Realm.</p>
+            <p>Secondly, that they make no ſecret
+contracts, without conſent or counſel
+of their Parents or Elders, under
+whoſe authority they be, contrary to
+Gods Laws and mans Ordinances.</p>
+            <p>Thirdly, that they contract not
+anew with any other upon divorce and
+ſeparation made by the Iudge for a
+time, the Laws yet ſtanding to the
+contrary.</p>
+            <q>
+               <p>MArriage is honourable among all men,
+and the bed undefiled. But whore<g ref="char:EOLhyphen"/>mongers
+and adulterers God will judge.</p>
+               <bibl>
+                  <hi>Heb.</hi> 13. 4.</bibl>
+            </q>
+            <q>
+               <p>To avoid fornication, let every man have
+his wife, and let every woman have her huſ<g ref="char:EOLhyphen"/>band.
+He that cannot contain, let him mar<g ref="char:EOLhyphen"/>ry:
+For better it is to marry then to burn.</p>
+               <bibl>1 <hi>Cor.</hi> 7. 2, 9.</bibl>
+            </q>
+            <q>
+               <p>Unto the married I command, not I, but
+the Lord: Let not the wife depart from her
+husband. But if ſhe depart, let her remain
+unmarried, or be reconciled unto her husband.
+And let not the Husband put away his Wife.</p>
+               <bibl>1 <hi>Cor.</hi> 7. 10, 11.</bibl>
+            </q>
+            <q>
+               <p>None ſhall come near to anv of the kindred of his fleſh to uncover her ſhame: I am the Lord.</p> 
+               <bibl>Levit. 18. 6.</bibl>
+            </q>
+            <list>
+               <item>
+                  <hi>Con.</hi> Secundus gradus in linea recta aſcendente.</item>
+               <item>af. Avia</item>
+               <item>af. Avi relicta</item>
+               <item>Proſocrus, vel ſocrus magna.</item>
+               <item>Secundus gradus inaequalis in linea tranſ<g ref="char:EOLhyphen"/>verſa
+aſcendente.</item>
+               <item>Con. Amita</item>
+               <item>Con. Matertera</item>
+               <item>af. Patrui relicta</item>
+               <item>af. Avunculi relicta</item>
+               <item>af. Amita uxoris</item>
+               <item>af. Matertera uxoris.</item>
+               <item>Primus gradus in linea recta aſcendente.</item>
+               <item>Con. Mater</item>
+               <item>af. Noverca</item>
+               <item>af. Socrus.</item>
+               <item>Primus gradus in linea recta deſcendente.</item>
+               <item>Con. Filia</item>
+               <item>af. Privigna</item>
+               <item>af. Nurus.</item>
+               <item>Primus gradus aequalis in linea tranſver<g ref="char:EOLhyphen"/>ſali.</item>
+               <item>Con. Soror</item>
+               <item>af. Soror uxoris</item>
+               <item>af. Fratris relicta.</item>
+               <item>Secundus gradus in linea recta deſcendente.</item>
+               <item>Con. Neptis ex filio</item>
+               <item>Con. Neptis ex filia</item>
+               <item>af. Pronurus, i. relicta nepotis ex filio</item>
+               <item>af. Pronurus, i. relicta nepotis ex filia</item>
+               <item>af. Privigni filia</item>
+               <item>af. Privignae filia.</item>
+               <item>Secundus gradus inaequalis in linea tranſ<g ref="char:EOLhyphen"/>verſali
+deſcendente.</item>
+               <item>Con. Neptis ex fratre</item>
+               <item>Con. Neptis ex ſorore</item>
+               <item>af. Nepotis ex fratre relicta</item>
+               <item>af. Nepotis ex ſorore relicta</item>
+               <item>af. Neptis uxoris ex fratre.</item>
+               <item>af. Neptis uxoris ex ſorore.</item>
+               <item>1 Grandmother</item>
+               <item>2 Grandfathers wife</item>
+               <item>3 Wives grandmother.</item>
+               <item>4 Fathers ſiſter</item>
+               <item>5 Mothers ſiſter</item>
+               <item>6 Fathers brothers wife</item>
+               <item>7 Mothers brothers wife</item>
+               <item>8 Wives fathers ſiſter</item>
+               <item>9 Wives mothers ſiſter.</item>
+               <item>10 Mother</item>
+               <item>11 Stepmother</item>
+               <item>12 Wives mother.</item>
+               <item>13 Daughter</item>
+               <item>14 Wives daughter</item>
+               <item>15 Sonnes wife.</item>
+               <item>16 Siſter</item>
+               <item>17 Wives ſiſter</item>
+               <item>18 Brothers wife.</item>
+               <item>19 Sons daughter</item>
+               <item>20 Daughters daughter</item>
+               <item>21 Sons ſons wife</item>
+               <item>22 Daughters ſons wife</item>
+               <item>23 Wives ſons daughter</item>
+               <item>24 Wives daughters daughter.</item>
+               <item>25 Brothers daughter</item>
+               <item>26 Siſters daughter</item>
+               <item>27 Brothers ſons wife</item>
+               <item>28 Siſters ſons wife</item>
+               <item>29 Wives brothers daughter.</item>
+               <item>30 Wives ſiſters daughter.</item>
+               <item>1 Grandfather</item>
+               <item>2 Grandmothers husband</item>
+               <item>3 Husbands grandfather.</item>
+               <item>4 Fathers brother</item>
+               <item>5 Mothers brother</item>
+               <item>6 Fathers ſiſters husband</item>
+               <item>7 Mothers ſiſters husband</item>
+               <item>8 Husbands fathers brother</item>
+               <item>9 Husbands mothers brother.</item>
+               <item>10 Father</item>
+               <item>11 Stepfather</item>
+               <item>12 Husbands father.</item>
+               <item>13 Son</item>
+               <item>14 Husbands ſon</item>
+               <item>15 Daughters husband.</item>
+               <item>16 Brother</item>
+               <item>17 Husbands brother</item>
+               <item>18 Siſters husband.</item>
+               <item>19 Sons ſon</item>
+               <item>20 Daughters ſon</item>
+               <item>21 Sons daughters husband</item>
+               <item>22 Daughters daughters husband</item>
+               <item>23 Husbands ſons ſon</item>
+               <item>24 Husbands daughters ſon.</item>
+               <item>25 Brothers ſon</item>
+               <item>26 Siſters ſon</item>
+               <item>27 Brothers daughters husband</item>
+               <item>28 Siſters daughters husband</item>
+               <item>29 Husbands brothers ſon</item>
+               <item>30 Husbands ſiſters ſon.</item>
+               <item>
+                  <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>a recta aſcendente.</item>
+               <item>Con. Av<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </item>
+               <item>af. Aviae relictus</item>
+               <item>af. Proſocer, vel ſocer magnus.</item>
+               <item>Secundus gradus inaequalis in linea tranſ<g ref="char:EOLhyphen"/>verſali
+aſcendente.</item>
+               <item>Con. Patruus</item>
+               <item>Con. Avunculus</item>
+               <item>af. Amitae relictus</item>
+               <item>af. Materterae relictus</item>
+               <item>af. Patruus mariti</item>
+               <item>af. Avunculus mariti.</item>
+               <item>Primus gradus in linea recta aſcendente.</item>
+               <item>Con. Pater.</item>
+               <item>af. Vitricus</item>
+               <item>af. Socer.</item>
+               <item>Primus gradus in linea recta deſcendente.</item>
+               <item>Con. Filius</item>
+               <item>af. Privignus</item>
+               <item>af. Gener.</item>
+               <item>Primus gradus aequalis in linea tranſver<g ref="char:EOLhyphen"/>ſali.</item>
+               <item>Con. Frater</item>
+               <item>af. Levir</item>
+               <item>af. Sororis relictus.</item>
+               <item>Secundus gradus in linea recta deſcendente.</item>
+               <item>Con. Nepos ex filio</item>
+               <item>Con. Nepos ex filia</item>
+               <item>af. Progener, i. relictus neptis ex filio</item>
+               <item>af. Progener, i. relictus neptis ex filia</item>
+               <item>af. Privigni filius</item>
+               <item>af. Privignae filius.</item>
+               <item>Secundus gradus inaequalis in linea tranſ<g ref="char:EOLhyphen"/>verſali
+deſcendente.</item>
+               <item>Con. Nepos ex fratre</item>
+               <item>Con. Nepos ex ſorore</item>
+               <item>af. Neptis ex fratre relictus</item>
+               <item>af. Neptis ex ſorore relictus</item>
+               <item>af. Leviri filius, i. nepos mariti ex fratre</item>
+               <item>af. Gloris filius, i. nepos mariti ex ſorore.</item>
+            </list>
+            <p>1. IT is to be noted, that thoſe perſons which be in the direct line aſcendent
+and deſcendent, cannot marry together, although they be never ſo farre aſun<g ref="char:EOLhyphen"/>der
+in degrée.</p>
+            <p>2. It is alſo to be noted, that conſanguinity and affinity (letting and diſſolving
+Matrimony) is contracted as well in them and by them which be of kindred by
+the one ſide, as in and by them which be of kindred by both ſides.</p>
+            <p>3. <hi>Item,</hi> that by the Laws, conſanguinity and affinity (letting and diſſolving
+Matrimony) is contracted as well by unlawful company of man and woman, as
+by lawful marriage.</p>
+            <p>4. <hi>Item,</hi> in contracting betwixt perſons doubtful, which be not expreſſed in this
+Table, it is moſt ſure, firſt to conſult with men learned in the Laws, to underſtand
+what is lawful, what is honeſt and expedient, before the finiſhing of their contracts.</p>
+            <p>5. <hi>Item,</hi> that no Parſon, Vicar, or Curate, ſhall ſolemnize Matrimony out of
+his or their Cure, or Pariſh-Church or Chappel, and ſhall not ſolemnize the ſame
+in private houſes, nor lawleſs or exempt Churches, under the pains of the Law
+forbidding the ſame. And that the Curate have their Certificates, when the par<g ref="char:EOLhyphen"/>ties
+dwell in diverſe Pariſhes.</p>
+            <p>6. <hi>Item,</hi> the banns of Matrimony ought to be openly denounced in the Church by
+the Miniſter, thrée ſeveral Sundaies or Feſtival daies, to the end that who will
+and can alledge any impediment, may be heard, and that ſtay may be made till fur<g ref="char:EOLhyphen"/>ther
+trial, if any exception be made there againſt it upon ſufficient caution.</p>
+            <p>7. <hi>Item,</hi> who ſhall maliciouſly object a frivolous impediment againſt a lawful
+Matrimony to diſturb the ſame, is ſubject to the <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>8. <hi>Item,</hi> who ſhall preſume to contract in the degrees prohibited (though he doe
+it ignorantly) beſides that the fruit of ſuch copulation may be judged unlawful, is
+alſo puniſhable at the Ordinaries diſcretion.</p>
+            <p>9. <hi>Item,</hi> if any Miniſter ſhall conjoyn any ſuch, or ſhall be preſent at ſuch con<g ref="char:EOLhyphen"/>tracts
+making, he ought to be ſuſpended from his Miniſtery for thrée years: and
+otherwiſe to be puniſhed according to the Laws.</p>
+            <p>10. <hi>Item,</hi> it is further ordained, that no Parſon, Vicar or Curate do preach, treat,
+or expound, of his own voluntary invention, any matter of controverſie in the Scri<g ref="char:EOLhyphen"/>ptures,
+if he be under the degrée of a Maſter of Art, except he be licenſed by his
+Ordinary thereunto, but only for the inſtruction of the people, reade the Homilies
+already ſet forth, and ſuch other form of doctrine as ſhall be hereafter by authority
+publiſhed: and ſhall not innovate or alter any thing in the Church, or uſe any old
+Rite or Ceremony, which be not ſet forth by publick authority.</p>
+            <p>Set forth at firſt by the moſt Reverend Father in God, <hi>Matthew</hi> Lord Arch-biſhop of <hi>Canterbury,</hi> Primate of all <hi>England,</hi> and Metropolitane.</p>
+            <p>This is the trueſt Impreſſion with the Picture, two other Impreſſions have been diſperſed and ſold without conſent of the owner of the Copy.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> W. Lee <hi>at the</hi> Turks head <hi>in</hi> Fleet-ſtreet. 1662.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
